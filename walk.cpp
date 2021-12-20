@@ -1,5 +1,4 @@
 //Name : Pratik Pawar
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<iostream>
